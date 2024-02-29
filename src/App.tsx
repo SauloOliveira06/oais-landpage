@@ -1,4 +1,5 @@
 import { BodyPage } from "./components/BodyPage";
+import { EasterEggSection } from "./components/EasterEggSection";
 import { Hero } from "./components/Hero";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <Hero />
       <BodyPage />
+      <EasterEggSection />
     </>
   );
 }

@@ -10,7 +10,7 @@ export const ContainerBody = styled.div`
   justify-content: center;
   width: 100%;
   position: relative;
-  top: 13%;
+  top: 7%;
 `;
 
 export const TitleBody = styled.p`
