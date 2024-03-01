@@ -5,7 +5,7 @@ export const ContainerEasterEgg = styled.div`
   justify-content: center;
   width: 100%;
   position: relative;
-  margin-top: 15%;
+  margin-top: auto;
 
   .imagem-com-overlay {
     position: relative;
@@ -26,7 +26,7 @@ export const ContainerEasterEgg = styled.div`
     display: block;
     max-width: 100%;
     object-fit: cover;
-    height: 160vh;
+    height: 250vh;
   }
 `;
 
