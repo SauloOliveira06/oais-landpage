@@ -32,8 +32,8 @@ export const VectorTextTrybo = () => {
           y2="154"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#E2A163" />
-          <stop offset="1" stop-color="#332121" />
+          <stop stopColor="#E2A163" />
+          <stop offset="1" stopColor="#332121" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_0_1"
@@ -43,8 +43,8 @@ export const VectorTextTrybo = () => {
           y2="393"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#E2A163" />
-          <stop offset="1" stop-color="#332121" />
+          <stop stopColor="#E2A163" />
+          <stop offset="1" stopColor="#332121" />
         </linearGradient>
       </defs>
     </svg>

@@ -20,8 +20,8 @@ export const VectorBottomLeft = () => {
           y2="7.75929"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="white" />
-          <stop offset="1" stop-color="#A7A7A7" />
+          <stop stopColor="white" />
+          <stop offset="1" stopColor="#A7A7A7" />
         </linearGradient>
       </defs>
     </svg>

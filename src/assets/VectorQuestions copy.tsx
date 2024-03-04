@@ -20,8 +20,8 @@ export const VectorQuestions = () => {
           y2="46.9974"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#E2A163" />
-          <stop offset="1" stop-color="#332121" />
+          <stop stopColor="#E2A163" />
+          <stop offset="1" stopColor="#332121" />
         </linearGradient>
       </defs>
     </svg>
